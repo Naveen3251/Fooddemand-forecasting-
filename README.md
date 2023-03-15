@@ -44,5 +44,6 @@ which has accuracy of  about 93-95% for training data and 83% for testing data.
       flask run --port 8000
 
 # Contributors
-  1. SANJAI - Backend end and Machine Learning Part  [Github Link](https://github.com/sanjail3)
+  1. Naveen Kumar -Data preprocessing and creating ML model
+  2. Sanjai-Blockchain
   2. Madumitha- Frontend HTML/CSS
